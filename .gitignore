@@ -1,0 +1,5 @@
+/app/tests
+pytest.ini
+/app/conftest.py
+/venv
+*__pycache__*
